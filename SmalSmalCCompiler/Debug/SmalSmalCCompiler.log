@@ -1,0 +1,8 @@
+﻿  Lexer.c
+C:\Users\USER\source\repos\SmalSmalCCompiler\SmalSmalCCompiler\Lexer.c(16,30): warning C4018: '>': signed/unsigned mismatch
+  Token.c
+  io.c
+  main.c
+  Generating Code...
+C:\Users\USER\source\repos\SmalSmalCCompiler\SmalSmalCCompiler\Token.c(65): warning C4715: 'token_type_to_string': not all control paths return a value
+  SmalSmalCCompiler.vcxproj -> C:\Users\USER\source\repos\SmalSmalCCompiler\Debug\SmalSmalCCompiler.exe
